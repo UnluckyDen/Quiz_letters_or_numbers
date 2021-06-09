@@ -16,6 +16,7 @@ namespace data
             [SerializeField] private List<string> cellsName;
 
             public List<Sprite> CellsImages => cellsImage;
+
             public List<string> CellsNames => cellsName;
         }
         public List<LevelsSettingsStructure> levelsSettingsStructures;

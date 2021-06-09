@@ -23,6 +23,23 @@ MonoBehaviour:
     - {fileID: -2756605603065543306, guid: 43b3bd69b0cef7e41b944f978c145078, type: 3}
     - {fileID: -3541686595128163680, guid: 43b3bd69b0cef7e41b944f978c145078, type: 3}
     - {fileID: 4652326554734856401, guid: 43b3bd69b0cef7e41b944f978c145078, type: 3}
+    - {fileID: -8235857483100294123, guid: 43b3bd69b0cef7e41b944f978c145078, type: 3}
+    - {fileID: -1127063002332224934, guid: 43b3bd69b0cef7e41b944f978c145078, type: 3}
+    - {fileID: -5901097786099144959, guid: 43b3bd69b0cef7e41b944f978c145078, type: 3}
+    - {fileID: 3295844289267200183, guid: 43b3bd69b0cef7e41b944f978c145078, type: 3}
+    - {fileID: -6342808464625005154, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: 8083504644574312765, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: 3270655726746431581, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: -2983290644488427326, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: 5433449995169814141, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: -4447791616812998045, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: -9165466868132007793, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: -4461999128152558772, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: 7112752472869403061, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: -4252152113809563852, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: 4461586319009975920, guid: ecf70145ed71f6b479a8284b284e9fee, type: 3}
+    - {fileID: -5001085640463096552, guid: 8814386063eb4dd49847b9a16fa2c428, type: 3}
+    - {fileID: 3539555106843919260, guid: 8814386063eb4dd49847b9a16fa2c428, type: 3}
     cellsName:
     - A
     - B
@@ -33,6 +50,23 @@ MonoBehaviour:
     - G
     - H
     - I
+    - J
+    - K
+    - L
+    - M
+    - N
+    - O
+    - P
+    - Q
+    - R
+    - S
+    - T
+    - U
+    - V
+    - W
+    - X
+    - Y
+    - Z
   - cellsImage:
     - {fileID: 1422184923334757970, guid: 208a0926b1aa18a45b1b412bbcfb0e3e, type: 3}
     - {fileID: 1808195818850983521, guid: 208a0926b1aa18a45b1b412bbcfb0e3e, type: 3}
